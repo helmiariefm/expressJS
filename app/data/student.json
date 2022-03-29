@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Heramwan",
+      "npsn": 20102537,
+      "kelas": 10
+    },
+    {
+      "id": 2,
+      "name": "Dono",
+      "npsn": 20107364,
+      "kelas": 12
+    },
+    {
+      "id": 3,
+      "name": "Agil",
+      "npsn": 20102611,
+      "kelas": 13
+    }
+  ]

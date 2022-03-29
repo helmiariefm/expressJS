@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Fish Oil 10 capsule",
+        "price": 10000,
+        "type": "HEALTY_FOOD",
+        "qty": 100
+    },
+    {
+        "id": 2,
+        "name": "Madu Sumbawa 100ml",
+        "price": 10000,
+        "type": "HEALTY_FOOD",
+        "qty": 10
+    }
+]
